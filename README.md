@@ -6,5 +6,5 @@ It´s a study repository based on YouTube video tutorials and book tutorials and
 
 As I create new scripts, it'll be added here, as well their sources with credits (if applicable).
 
-### 1. Auto documents type organizer
-Tutorial reference: Hashtag Programação YouTube
+#### 1. Auto documents type organizer
+Tutorial reference <a href="https://www.youtube.com/watch?v=K3kwVcJuz8I">Hashtag Programação YouTube</a>
